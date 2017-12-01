@@ -79,6 +79,12 @@ video, audio, img {
 
 /* layout */
 
+#social {
+  position: fixed;
+  top: 200px;
+  right: 20px;
+}
+
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
