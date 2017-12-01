@@ -79,6 +79,10 @@ video, audio, img {
 
 /* layout */
 
+* {
+  box-sizing: border-box;;
+}
+
 section {
   padding: 20px;
   margin-bottom: 20px;
